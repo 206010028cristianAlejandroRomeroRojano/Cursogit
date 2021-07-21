@@ -1,3 +1,7 @@
 @charset "itf-8";
 /*CSS Document */
-h1{color:blue;font-size: 16px;}
+body{
+    background-color: #00f;
+    font-weight: bold;
+    color: #f00;
+}
